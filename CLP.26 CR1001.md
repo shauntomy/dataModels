@@ -1,6 +1,6 @@
 #DATA MODELS
 
-Table of Contents
+##Table of Contents
 
 [1 Introduction 5](#_Toc461716337)
 
