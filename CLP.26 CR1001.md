@@ -162,12 +162,12 @@ Vertical Segments
 
 The harmonised data entities contained in this document originate from and are used in the following industry verticals (or IoT Domains):
 
-*Agriculture
-*Automotive
-*Environment
-*Industry
-*Smart City
-*Smart Home
+*Agriculture..
+*Automotive..
+*Environment..
+*Industry..
+*Smart City..
+*Smart Home..
 
 The data entity definitions include a list of the applicable industry verticals to assist with entity classification and discovery.
 
