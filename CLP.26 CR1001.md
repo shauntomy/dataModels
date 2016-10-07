@@ -141,11 +141,9 @@ The harmonised data models are expected to evolve over time, potentially new ent
 <span id="_Toc327447332" class="anchor"><span id="_Toc327547999" class="anchor"><span id="_Toc327548199" class="anchor"><span id="_Toc461716341" class="anchor"></span></span></span></span>References 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-| Ref                                                 | Doc Number        | Title                                                                                            |
-|-----------------------------------------------------|-------------------|--------------------------------------------------------------------------------------------------|
-| 1.  <span id="_Ref325119390" class="anchor"></span> |                   | Unlocking the Value of IoT Through Big Data.                                                     
-                                                                                                                                                                             
-                                                                           <http://www.gsma.com/connectedliving/unlocking-the-value-of-iot-through-big-data/>                |
+| Ref                                                 | Doc Number        | Title                                                       
+|-----------------------------------------------------|-------------------|-----------------------------------------------------------|
+| 1.  <span id="_Ref325119390" class="anchor"></span> |                   | Unlocking the Value of IoT Through Big Data.                                                                                           <http://www.gsma.com/connectedliving/unlocking-the-value-of-iot-through-big-data/>                |
 | 1.  <span id="_Ref461118771" class="anchor"></span> | oneM2M            | <http://www.onem2m.org/>                                                                         |
 | 1.  <span id="_Ref461118795" class="anchor"></span> | OASC              | <http://oascities.org/>                                                                          |
 | 1.  <span id="_Ref461118814" class="anchor"></span> | Schema.org        | <http://schema.org/>                                                                             |
