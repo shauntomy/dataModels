@@ -1,33 +1,4 @@
-| <span id="_Toc327548004" class="anchor"><span id="_Toc327548204" class="anchor"><span id="_Toc330993687" class="anchor"><span id="_Toc74460299" class="anchor"></span></span></span></span>Change Request Form |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="./media/image1.png" width="181" height="181" />                                                                                                                                                      |
-| Document Summary                                                                                                                                                                                               |
-| Official Document Number, Document Title and Version Number                                                                                                                                                    |
-| Official Document Type                                                                                                                                                                                         |
-| Change Request Security Classification                                                                                                                                                                         |
-| Is this a new document or a Major or Minor Change?                                                                                                                                                             |
-| Will this Change Request result in a Major or Minor version update?                                                                                                                                            |
-| This document is for                                                                                                                                                                                           |
-| Input Editor and Organisation                                                                                                                                                                                  |
-| Additional Contributors                                                                                                                                                                                        |
-| Issuing Group/Project                                                                                                                                                                                          |
-| Approving Group/Project                                                                                                                                                                                        |
-| Change Request Creation Date                                                                                                                                                                                   |
-| What are the reasons for and benefits of creating this new document or Change Request?                                                                                                                         |
-
-© GSMA © 2016. The GSM Association (“Association”) makes no representation, warranty or undertaking (express or implied) with respect to and does not accept any responsibility for, and disclaims liability for the accuracy or completeness or timeliness of the information contained in this document. The information contained in this document may be subject to change without prior notice. This document has been classified according to the GSMA [Document Confidentiality Policy](https://infocentre-qa.concentra.co.uk/_layouts/Infocentre/InfocentreRedirect.aspx?WebId=4d56f3a7-dbc9-4a09-9a58-4aed6a0921d4&ListId=97eb8308-dd5f-422e-bbc5-8bee9731f160&ItemId=a8a9e2e4-c802-4e9c-b1f2-e85bafed771d). GSMA meetings are conducted in full compliance with the GSMA Antitrust Policy.
-
-| Review Log (to be completed by GSMA Support Staff)     |
-|--------------------------------------------------------|
-| Workflow Step                                          |
-| Step 1: Change Request Creation (no comments required) |
-| Step 2: Document Quality and/or Legal Review           |
-| Document Quality Team                                  |
-| Legal Review                                           |
-| Step 3: Formal Review                                  |
-| Group(s)/Project(s) Review(s) Comments and Feedback    |
-| Step 4: Formal Approval(s)                             |
-| Group(s)/Project(s) Approval(s) Comments and Feedback  |
+DATA MODELS
 
 Table of Contents
 
